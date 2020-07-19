@@ -5,8 +5,7 @@
     <?php get_header(); ?>
     <meta name="robots" content="index, follow" />
     <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-    <link rel="icon" type="image/x-gif" href="<?php echo get_stylesheet_directory_uri(); ?>/icon.gif">
-    <link rel="stylesheet" type="text/css" href="<?php echo get_stylesheet_directory_uri(); ?>/style.css" media="all" />
+    <link rel="stylesheet" type="text/css" href="<?php echo get_stylesheet_directory_uri(); ?>/css/style.css" media="all" />
     <link rel="pingback" href="<?php bloginfo('wpurl'); ?>/xmlrpc.php" />
     <link rel="alternate" type="application/rss+xml" title="RSS-Feed" href="<?php bloginfo('wpurl') ?>/feed/" />
 
