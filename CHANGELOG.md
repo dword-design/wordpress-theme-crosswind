@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/dword-design/wordpress-theme-crosswind/compare/v1.0.0...v1.0.1) (2020-07-19)
+
+
+### Bug Fixes
+
+* fix header ([66ba217](https://github.com/dword-design/wordpress-theme-crosswind/commit/66ba2172d280f98bc8244aba0a180e8f6a8a1d5f))
+
 # 1.0.0 (2020-07-19)
 
 
