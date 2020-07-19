@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/dword-design/wordpress-theme-crosswind/compare/v1.0.2...v1.0.3) (2020-07-19)
+
+
+### Bug Fixes
+
+* build ([474e4fd](https://github.com/dword-design/wordpress-theme-crosswind/commit/474e4fd1b96526d2a9a3f291dae2c51af6358b69))
+
 ## [1.0.2](https://github.com/dword-design/wordpress-theme-crosswind/compare/v1.0.1...v1.0.2) (2020-07-19)
 
 
