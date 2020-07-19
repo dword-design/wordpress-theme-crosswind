@@ -1,0 +1,108 @@
+@import "variables";
+@import "~font-awesome/scss/font-awesome";
+
+.menu-toggle {
+  display: none;
+  float: right;
+  padding: 2.1rem 1rem;
+  font-size: 1.5rem;
+
+  @media (max-width: $break-1) {
+    display: block;
+  }
+
+  &::before {
+    content: $fa-var-bars;
+    font-family: FontAwesome, sans-serif;
+  }
+}
+
+.menu-close {
+  position: absolute;
+  top: 0;
+  right: 0;
+  display: none;
+  padding: 1.5rem 1.5rem;
+  font-size: 1.8rem;
+
+  &::before {
+    content: $fa-var-times;
+    font-family: FontAwesome, sans-serif;
+  }
+}
+
+.menu {
+  float: right;
+  font-size: 1.3rem;
+  font-family: $serif;
+
+  @media (max-width: $break-2) {
+    font-size: 1rem;
+  }
+
+  @media (max-width: $break-1) {
+    position: fixed;
+    top: 0;
+    right: -80%;
+    bottom: 0;
+    width: 80%;
+    padding-top: 1rem;
+    background: #fff;
+    font-size: 1.4rem;
+    transition: 0.2s all;
+  }
+}
+
+.menu-item {
+  display: inline-block;
+
+  @media (max-width: $break-1) {
+    display: block;
+  }
+
+  a {
+    position: relative;
+    display: block;
+    padding: 2.3rem 0.5rem;
+    transition: 0.2s all;
+
+    @media (max-width: $break-1) {
+      padding: 1rem 2rem;
+    }
+
+    &::after {
+      content: "";
+      position: absolute;
+      bottom: 2.3rem;
+      left: 0.5rem;
+      width: 0%;
+      height: 0.14rem;
+      border-radius: 0.15rem;
+      background: $textcolor;
+      transition: 0.2s all;
+
+      @media (max-width: $break-2) {
+        bottom: 2.4rem;
+      }
+    }
+  }
+
+  &.current-menu-item a,
+  a:hover {
+    @media (max-width: $break-1) {
+      background: transparentize(#000, 0.93rem);
+    }
+
+    &::after {
+      width: calc(100% - 1rem);
+
+      @media (max-width: $break-1) {
+        width: 0%;
+      }
+    }
+  }
+}
+
+.sub-menu {
+  display: none;
+}
