@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/dword-design/wordpress-theme-crosswind/compare/v1.0.3...v1.0.4) (2020-07-21)
+
+
+### Bug Fixes
+
+* **deps:** update dependency reset-css to v5 ([6936166](https://github.com/dword-design/wordpress-theme-crosswind/commit/6936166e10a12dea1213812e97eec3bc2e32323c))
+
 ## [1.0.3](https://github.com/dword-design/wordpress-theme-crosswind/compare/v1.0.2...v1.0.3) (2020-07-19)
 
 
