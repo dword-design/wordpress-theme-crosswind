@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/dword-design/wordpress-theme-crosswind/compare/v1.0.7...v1.0.8) (2021-02-16)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @dword-design/base to v7 ([#6](https://github.com/dword-design/wordpress-theme-crosswind/issues/6)) ([79b2cce](https://github.com/dword-design/wordpress-theme-crosswind/commit/79b2cce4dd2ba39e0059a5990afdbc0a1c403cb7))
+
 ## [1.0.7](https://github.com/dword-design/wordpress-theme-crosswind/compare/v1.0.6...v1.0.7) (2021-02-16)
 
 
