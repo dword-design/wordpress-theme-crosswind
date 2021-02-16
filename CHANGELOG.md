@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/dword-design/wordpress-theme-crosswind/compare/v1.0.6...v1.0.7) (2021-02-16)
+
+
+### Bug Fixes
+
+* **config:** Update changed files ([7fb9e0a](https://github.com/dword-design/wordpress-theme-crosswind/commit/7fb9e0a738612efa719ba524e6e9e07fb0e684fd))
+
 ## [1.0.6](https://github.com/dword-design/wordpress-theme-crosswind/compare/v1.0.5...v1.0.6) (2020-08-23)
 
 
