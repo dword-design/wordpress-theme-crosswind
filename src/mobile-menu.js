@@ -5,6 +5,7 @@ $(document).ready(() => {
     e.preventDefault()
     $html.toggleClass('mobile-menu-open')
   })
+
   const $menuClose = $(
     '<a href="#" class="menu-close"><span class="visually-hidden">Menü schließen</span></a>'
   ).appendTo('.menu')
