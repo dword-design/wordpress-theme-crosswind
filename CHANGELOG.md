@@ -1,3 +1,11 @@
+## [1.0.14](https://github.com/dword-design/wordpress-theme-crosswind/compare/v1.0.13...v1.0.14) (2021-04-22)
+
+
+### Bug Fixes
+
+* update config files ([af03ea2](https://github.com/dword-design/wordpress-theme-crosswind/commit/af03ea28f232f6ff09fc9f3e4bebd721628ed2f8))
+* updated package.json[description] ([#20](https://github.com/dword-design/wordpress-theme-crosswind/issues/20)) ([defcc1d](https://github.com/dword-design/wordpress-theme-crosswind/commit/defcc1d48b200b3ca32c118bf0bdc1e82d13aba3))
+
 ## [1.0.13](https://github.com/dword-design/wordpress-theme-crosswind/compare/v1.0.12...v1.0.13) (2021-04-21)
 
 
