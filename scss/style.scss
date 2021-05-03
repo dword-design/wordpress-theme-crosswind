@@ -3,16 +3,16 @@
 @import "~reset-css";
 @import "~font-awesome/scss/font-awesome";
 
-* {
-  box-sizing: border-box;
-}
-
 @import "mixins";
 @import "column-shortcode";
 @import "fonts/barlow";
 @import "fonts/averia-sans-light";
 @import "menu";
 @import "videos";
+
+* {
+  box-sizing: border-box;
+}
 
 html {
   &.mobile-menu-open {
