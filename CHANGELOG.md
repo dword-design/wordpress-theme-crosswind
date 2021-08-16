@@ -1,3 +1,10 @@
+## [1.0.26](https://github.com/dword-design/wordpress-theme-crosswind/compare/v1.0.25...v1.0.26) (2021-08-16)
+
+
+### Bug Fixes
+
+* lock file maintenance ([7ac9119](https://github.com/dword-design/wordpress-theme-crosswind/commit/7ac911912220583e17e7c56a351617dbbd646ba1))
+
 ## [1.0.25](https://github.com/dword-design/wordpress-theme-crosswind/compare/v1.0.24...v1.0.25) (2021-08-09)
 
 
